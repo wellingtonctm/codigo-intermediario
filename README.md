@@ -109,6 +109,6 @@ Você pode notar que a representação de notação posfixa foi feita de maneira
 criado em Bison facilita esse processo.
 
 Por outro lado, a representação das árvores sintáticas poderia ter sido feita de maneira mais simples, gerando diretamente um código LaTeX. Mas veja que,
-antes de converter para um código LaTeX, meu código guarda a árvore em uma estrutura de dados em C++ que criei, utilizando alocação de memória e ponteiros,
-para representar a árvore, esse procedimento foi feito, pois vi que teria mais liberdade para novas criações, tomando como base esse código; além disso,
+antes de converter para um código LaTeX, meu código guarda a árvore em uma estrutura de dados em C++ que criei, utilizando alocação de memória e ponteiros
+para representar a árvore, esse procedimento foi feito porque vi que teria mais liberdade para novas criações, tomando como base esse código e, além disso,
 também permitiu-me construir o código LaTeX já indentado.
