@@ -112,3 +112,9 @@ Por outro lado, a representação das árvores sintáticas poderia ter sido feit
 antes de converter para um código LaTeX, meu código guarda a árvore em uma estrutura de dados em C++ que criei, utilizando alocação de memória e ponteiros
 para representar a árvore; esse procedimento foi feito porque vi que, tomando como base esse código, teria mais liberdade para novas criações, além disso,
 também permitiu-me construir o código LaTeX já indentado.
+
+
+## 📄 Licença
+
+Distribuído sob os termos da [Licença MIT](./LICENSE).  
+Você pode usar, modificar e compartilhar livremente, desde que mantenha os devidos créditos.
