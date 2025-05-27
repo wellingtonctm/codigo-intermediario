@@ -110,5 +110,5 @@ criado em Bison facilita esse processo.
 
 Por outro lado, a representação das árvores sintáticas poderia ter sido feita de maneira mais simples, gerando diretamente um código LaTeX. Mas veja que,
 antes de converter para um código LaTeX, meu código guarda a árvore em uma estrutura de dados em C++ que criei, utilizando alocação de memória e ponteiros
-para representar a árvore, esse procedimento foi feito porque vi que teria mais liberdade para novas criações, tomando como base esse código e, além disso,
+para representar a árvore; esse procedimento foi feito porque vi que, tomando como base esse código, teria mais liberdade para novas criações, além disso,
 também permitiu-me construir o código LaTeX já indentado.
