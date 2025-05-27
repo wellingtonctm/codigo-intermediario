@@ -114,7 +114,7 @@ para representar a árvore; esse procedimento foi feito porque vi que, tomando c
 também permitiu-me construir o código LaTeX já indentado.
 
 
-## 📄 Licença
+## Licença
 
 Distribuído sob os termos da [Licença MIT](./LICENSE).  
 Você pode usar, modificar e compartilhar livremente, desde que mantenha os devidos créditos.
